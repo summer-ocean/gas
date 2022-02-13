@@ -1,0 +1,4 @@
+# ブックをget
+```
+book = SpreadsheetApp.getActiveSpreadsheet();
+```
