@@ -2,4 +2,4 @@
 
 [表示](表示.md)  
 
-[GASについて](gasについて.md)  
+[GAS](gas/index.md)  
