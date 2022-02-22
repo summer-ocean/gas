@@ -6,3 +6,5 @@
 [GAS](gas/index.md)  
 
 [GASドキュメント](https://developers.google.com/apps-script/)  
+
+[スクリプトエディタ](スクリプトエディタ/index.md)  
