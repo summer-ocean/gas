@@ -3,3 +3,5 @@
 [表示](表示.md)  
 
 [GAS](gas/index.md)  
+
+[GASドキュメント](https://developers.google.com/apps-script/)  
